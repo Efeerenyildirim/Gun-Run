@@ -1,10 +1,12 @@
-# Pixel Arena
-![pixel 1](https://github.com/Efeerenyildirim/Pixel-Arena/assets/154749990/6bfbef00-2f26-418e-9ca2-4b5c038f790b)
-![pixel 2](https://github.com/Efeerenyildirim/Pixel-Arena/assets/154749990/ecaa06de-fe34-4ea7-b04b-c2373aeeb9c1)
-![pixel 3](https://github.com/Efeerenyildirim/Pixel-Arena/assets/154749990/9f3b25bb-875d-4858-8614-bc1151148105)
+# Gun Run
+![image1](https://github.com/Efeerenyildirim/Gun-Run/assets/154749990/ffed8d88-8a56-4612-96c0-63561cb08c24)
+![image2](https://github.com/Efeerenyildirim/Gun-Run/assets/154749990/d1ab598e-65bb-4252-96aa-5f8470fb2eb0)
+![image3](https://github.com/Efeerenyildirim/Gun-Run/assets/154749990/0a4c6759-b98a-45c2-b91e-57c8a748469a)
+
+Clone game of Weapon Craft Run For DIGIAGE Game School Developer Case
+
+You can download the game at: https://github.com/Efeerenyildirim/Gun-Run/releases
+
+Orijinal Game (Weapon Craft Run): https://play.google.com/store/apps/details?id=com.adengames.weaponcraftrun
 
 
-
-2 Player arcade game that I made to improve my unity skills and have fun.
-
-You can download the game at https://github.com/Efeerenyildirim/Pixel-Arena/releases
